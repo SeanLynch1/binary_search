@@ -1,4 +1,4 @@
-This file contains code I wrote for a binary search. 
+# This file contains code I wrote for a binary search. 
 
 It looks through a sorted list for value and finds the index at which that value is.
 
